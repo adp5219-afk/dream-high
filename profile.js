@@ -11,12 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Ayush Patel",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
-
+  bio: "Hey, I'm Ayush I love playing sports and spending time with my friends. I also have a strong interest in cancer biology, artificial intelligence, and computational medicine. I am excited to join DREAM-High to learn how genomic, clinical, and computational data can be integrated to better understand cancer and improve patient outcomes. I hope to strengthen my programming and data analysis skills while gaining hands-on experience with real biomedical datasets."
   /*
   Optional photo:
   1. Upload a photo file to this GitHub repository.
@@ -39,12 +38,16 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Ayush_P"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    }
+      url: "https://rpubs.com/Ayush_P/1446323"
+    },
+  {
+      title: "DREAM-High: Exploring TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/Ayush_P/1448160"
+    },
   ],
 
   /*
@@ -55,7 +58,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "Write one or two sentences describing your final project.",
-    url: ""
+    url: "https://rpubs.com/Ayush_P"
   },
 
   /*
@@ -65,7 +68,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/adp5219-afk"
     }
   ]
 };
