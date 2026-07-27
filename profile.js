@@ -11,7 +11,7 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Ayush D Patel",
+  name: "Ayush Patel",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
