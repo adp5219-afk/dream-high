@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Hey, I'm Ayush I love playing sports and spending time with my friends. I also have a strong interest in cancer biology, artificial intelligence, and computational medicine. I am excited to join DREAM-High to learn how genomic, clinical, and computational data can be integrated to better understand cancer and improve patient outcomes. I hope to strengthen my programming and data analysis skills while gaining hands-on experience with real biomedical datasets."
+  bio: "Hey, I'm Ayush I love playing sports and spending time with my friends. I also have a strong interest in cancer biology, artificial intelligence, and computational medicine. I am excited to join DREAM-High to learn how genomic, clinical, and computational data can be integrated to better understand cancer and improve patient outcomes. I hope to strengthen my programming and data analysis skills while gaining hands-on experience with real biomedical datasets.",
   /*
   Optional photo:
   1. Upload a photo file to this GitHub repository.
