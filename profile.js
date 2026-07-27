@@ -47,7 +47,7 @@ const studentProfile = {
   {
       title: "DREAM-High: Exploring TCGA Breast Cancer Clinical Data",
       url: "https://rpubs.com/Ayush_P/1448160"
-    },
+    }
   ],
 
   /*
