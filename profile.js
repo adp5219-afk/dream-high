@@ -47,6 +47,10 @@ const studentProfile = {
   {
       title: "DREAM-High: Exploring TCGA Breast Cancer Clinical Data",
       url: "https://rpubs.com/Ayush_P/1448160"
+    },
+    {
+      title: "DREAM-High: Breast Cancer Cell Lines, Cell Motility, and Gene Expression",
+      url: "https://rpubs.com/Ayush_P/1449862"
     }
   ],
 
